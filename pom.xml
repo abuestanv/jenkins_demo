@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <log4j2.version>2.17.1</log4j2.version>
-        <sonar.host.url>http://localhost:9000</sonar.host.url>
+        <sonar.host.url>http://172.18.0.4:9000</sonar.host.url>
         <sonar.login>227b324a9f759f480481211f89f21db92f3f9c28</sonar.login>
         <sonar.language>java</sonar.language>
         <sonar.scm.provider>git</sonar.scm.provider>
